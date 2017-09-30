@@ -4,9 +4,9 @@ def speak_to_grandma(phrase)
     puts "I LOVE YOU TOO PUMPKIN!"
   elsif phrase == "Hi Nana, how are you?"
     puts "HUH?! SPEAK UP, SONNY!"
-  elsif phrase == "WHAT DID YOU EAT TODAY?"
+  else phrase == "WHAT DID YOU EAT TODAY?"
     puts "NO, NOT SINCE 1938!"
-    
+
 
 end
 
@@ -14,7 +14,7 @@ end
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 
-# If you shout, she can hear you (or at least she thinks so) 
+# If you shout, she can hear you (or at least she thinks so)
 # and yells back
 
 # NO, NOT SINCE 1938!
